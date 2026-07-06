@@ -10,22 +10,18 @@ public:
         age['C'] = 100;
         age['D'] = 500;
         age['M'] = 1000;
-        int sum=0;
-        char pre=s[0];
-        for(char a:s){
-            // sum+=age[a];
-            std::cout<<sum<<" ";
-            if(age[pre]<age[a]){
-                sum+=age[a];
-                int d=2*age[pre];
-                sum-=d;
+        int sum = 0;
+        char pre = s[0];
+        for (char a : s) {
+            if (age[pre] < age[a]) {
+                sum += age[a];
+                int d = 2 * age[pre];
+                sum -= d;
 
+            } else if (age[pre] >= age[a]) {
+                sum += age[a];
             }
-            else if(age[pre]>=age[a]){
-                sum+=age[a];
-            }
-            pre=a;
-            std::cout<<pre<<" ";
+            pre = a;
         }
         return sum;
     }
