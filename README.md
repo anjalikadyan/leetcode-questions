@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0896-monotonic-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
