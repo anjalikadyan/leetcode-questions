@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -25,9 +26,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
