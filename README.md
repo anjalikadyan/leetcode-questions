@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalikadyan/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalikadyan/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
