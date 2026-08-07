@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalikadyan/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalikadyan/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
