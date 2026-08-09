@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anjalikadyan/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0896-monotonic-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anjalikadyan/leetcode-questions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Heap (Priority Queue)
 |  |
