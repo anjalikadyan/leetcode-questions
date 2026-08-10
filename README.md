@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anjalikadyan/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/anjalikadyan/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/anjalikadyan/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/anjalikadyan/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anjalikadyan/leetcode-questions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Heap (Priority Queue)
