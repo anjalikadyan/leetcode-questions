@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anjalikadyan/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalikadyan/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/anjalikadyan/leetcode-questions/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anjalikadyan/leetcode-questions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/anjalikadyan/leetcode-questions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anjalikadyan/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
