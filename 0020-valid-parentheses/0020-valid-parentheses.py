@@ -1,13 +1,24 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        match = {')': '(', '}': '{', ']': '['}
-
-        for ch in s:
-            if ch in match:
-                if not stack or stack.pop() != match[ch]:
+        if len(s)<2:
+            return False
+        a=[]
+        match = {')': '(', '}': '{', ']':'['}
+        count=0
+        for i in s:
+            if i in match:
+                if len(a)==0:
                     return False
+                if len(a)>0:
+                    count+=1
+                    if match[i]!=a.pop():
+                        return False
+                    
             else:
-                stack.append(ch)
-
-        return not stack
+                a.append(i)
+        # if count==0:
+        #     return False
+        if count>0 and len(a)==0:
+            return True
+        return False
+        
