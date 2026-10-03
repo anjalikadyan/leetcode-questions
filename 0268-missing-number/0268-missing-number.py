@@ -7,4 +7,4 @@ class Solution:
         for i in range(0,n):
             if nums[i]!=i:
                 return i
-        return -1
+        
