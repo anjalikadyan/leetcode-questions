@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anjalikadyan/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anjalikadyan/leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anjalikadyan/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anjalikadyan/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anjalikadyan/leetcode-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anjalikadyan/leetcode-questions/tree/master/1510-stone-game-iv) |
