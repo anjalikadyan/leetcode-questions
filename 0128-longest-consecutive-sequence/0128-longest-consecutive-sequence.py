@@ -33,6 +33,6 @@ class Solution:
             ans = max(ans, counter)
             counter = 1
         
-        ans = max(ans, counter)
+        # ans = max(ans, counter)
         return ans
         
