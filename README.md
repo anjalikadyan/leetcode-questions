@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalikadyan/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/anjalikadyan/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anjalikadyan/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -366,4 +370,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anjalikadyan/leetcode-questions/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
