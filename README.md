@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalikadyan/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anjalikadyan/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anjalikadyan/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/anjalikadyan/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/anjalikadyan/leetcode-questions/tree/master/1927-sum-game) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anjalikadyan/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anjalikadyan/leetcode-questions/tree/master/0141-linked-list-cycle) |
