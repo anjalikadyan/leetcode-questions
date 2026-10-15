@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/anjalikadyan/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anjalikadyan/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anjalikadyan/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
