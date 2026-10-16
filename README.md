@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/anjalikadyan/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikadyan/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/anjalikadyan/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/anjalikadyan/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/anjalikadyan/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalikadyan/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
