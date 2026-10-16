@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anjalikadyan/leetcode-questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anjalikadyan/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalikadyan/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
