@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0338-counting-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anjalikadyan/leetcode-questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anjalikadyan/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
