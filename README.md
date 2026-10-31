@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anjalikadyan/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikadyan/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anjalikadyan/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anjalikadyan/leetcode-questions/tree/master/0485-max-consecutive-ones) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalikadyan/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/anjalikadyan/leetcode-questions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anjalikadyan/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anjalikadyan/leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalikadyan/leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
