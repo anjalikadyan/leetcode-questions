@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anjalikadyan/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anjalikadyan/leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/anjalikadyan/leetcode-questions/tree/master/1927-sum-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anjalikadyan/leetcode-questions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/anjalikadyan/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anjalikadyan/leetcode-questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anjalikadyan/leetcode-questions/tree/master/1563-stone-game-v) |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
