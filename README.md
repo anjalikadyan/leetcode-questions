@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anjalikadyan/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anjalikadyan/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anjalikadyan/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/anjalikadyan/leetcode-questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/anjalikadyan/leetcode-questions/tree/master/0242-valid-anagram) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anjalikadyan/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/anjalikadyan/leetcode-questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anjalikadyan/leetcode-questions/tree/master/0139-word-break) |
