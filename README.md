@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anjalikadyan/leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalikadyan/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/anjalikadyan/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/anjalikadyan/leetcode-questions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/anjalikadyan/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalikadyan/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalikadyan/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjalikadyan/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anjalikadyan/leetcode-questions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/anjalikadyan/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/anjalikadyan/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anjalikadyan/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anjalikadyan/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anjalikadyan/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/anjalikadyan/leetcode-questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/anjalikadyan/leetcode-questions/tree/master/0115-distinct-subsequences) |
